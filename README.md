@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my test are available at [https://dev.d22hwv9gvaq48g.amplifyapp.com](https://dev.d22hwv9gvaq48g.amplifyapp.com)
 
-- 💬 About me **Exited to work and learn the newest testing technologies!**
-
 - 📫 How to reach me **Kacper.biegajlo@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1g5-kXvMMwQ7K-OuP8UxhINXoBa1u2YTB/view?usp=sharing](https://drive.google.com/file/d/1g5-kXvMMwQ7K-OuP8UxhINXoBa1u2YTB/view?usp=sharing)
