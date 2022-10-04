@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kacper Biegajło</h1>
 <h3 align="center">QA Automation Tester</h3>
 
-- 👨‍💻 All of my test are available at href={https://dev.d22hwv9gvaq48g.amplifyapp.com}{Portfolio App}
+- 👨‍💻 All of my test are available at {href={https://dev.d22hwv9gvaq48g.amplifyapp.com}{Portfolio App}}
 
 - 📫 How to reach me **Kacper.biegajlo@gmail.com**
 
