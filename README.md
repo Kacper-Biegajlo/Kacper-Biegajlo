@@ -5,7 +5,7 @@
 
 - 📫 You can reach me at **Kacper.biegajlo@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1g5-kXvMMwQ7K-OuP8UxhINXoBa1u2YTB/view?usp=sharing)
+- 📄 Here you can find my [CV](https://drive.google.com/file/d/1g5-kXvMMwQ7K-OuP8UxhINXoBa1u2YTB/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
