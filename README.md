@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my test results with descriptions, screenshots and videos are available at [Portfolio App](https://dev.d22hwv9gvaq48g.amplifyapp.com)
 
-- 📫 How to reach me **Kacper.biegajlo@gmail.com**
+- 📫 You can reach me at **Kacper.biegajlo@gmail.com**
 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1g5-kXvMMwQ7K-OuP8UxhINXoBa1u2YTB/view?usp=sharing)
 
