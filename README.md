@@ -18,9 +18,9 @@
 ### Projects & Contributions
 
 #### React Web App E2E & Component Tests with Cypress/TypeScript
-  - Using local development server for testing the App.
+  - Using a local development server for testing the App.
   - Writing and running Component Tests during the development stage of the APP.
-  - Ensuring that application behaves as expected via End‐to‐end Tests.
+  - Ensuring that the application behaves as expected via End‐to‐end Tests.
   - Documenting issues and providing feedback to the App's developer.
   - Using custom Cypress command to authenticate with AWS login.
   - Resolving other problems related to the usage of AWS login and TypeScript.
