@@ -21,9 +21,9 @@
   - Using local development server for testing the App.
   - Writing and running Component Tests during the development stage of the APP.
   - Ensuring that application behaves as expected via End‐to‐end Tests.
-  - Documenting issues and providing feedback to the APP developer.
+  - Documenting issues and providing feedback to the App's developer.
   - Using custom Cypress command to authenticate with AWS login.
-  - Resolving problems other related to the usage of AWS login and TypeScript.
+  - Resolving other problems related to the usage of AWS login and TypeScript.
   
   Code: [Click!](https://github.com/jakub-jarzabek/bluefolio/tree/main/cypress)
   
